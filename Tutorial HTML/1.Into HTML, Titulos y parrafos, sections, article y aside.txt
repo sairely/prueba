@@ -1,0 +1,114 @@
+TUTORIAL HTML YOUTUBE
+
+Comandos HTML:
+
+MAYUSCULA 1 + enter: ! y el cuerpo
+
+<!DOCTYPE html>
+
+<!-- esto es para escribir comentarios -->
+
+<!DOCTYPE html>
+<!-- Inicio del documento HTML-->
+>html lang:"es">
+
+<head>
+      <meta charset="UTF-8">
+      <title>Document</title>
+</head>
+                                         <!-- se puede abrir con live server (click derecho)-->
+<body>
+    Body de nuestra pagina web
+</body>
+
+
+OTRO
+
+
+<!DOCTYPE html>
+
+<!-- esto es para escribir comentarios -->
+
+<!DOCTYPE html>
+<html lang:"es">
+
+<head>
+      <meta charset="UTF-8">
+      <title>Títulos y párrafos</title>
+</head>
+                                         
+<body>
+    <h1>Harry Potter </h1>
+     <h2>Sinopsis </h2>
+     <p> eiiinskskskkis </p>
+     <h2> Novelas </h2>
+     <p> Lorem (para que aparezca texto random)</p>
+     <h3>Harry Potter y la piedra filosofal</h3>
+      <p>Lorem ndksnks </p>                                SIEMPRE IR GUARDANDO
+
+</body>
+
+OTRO: Seccion de contenidos
+
+<!DOCTYPE html>
+<html lang:"es">
+
+<head>
+      <meta charset="UTF-8">
+      <title>Títulos y párrafos</title>
+</head>
+                                         
+<body>
+ <!-- <hearder></hearder> <main></main> <>footer</>
+
+  <header>
+        <!--menu de navegacion, logo, redes sociales-->
+       Inicio
+       Novelas
+       Peliculas
+       Contacto
+  </header>
+  <main>
+    <h1>Harry Potter </h1>
+     <h2>Sinopsis </h2>
+     <p> eiiinskskskkis </p>
+     <h2> Novelas </h2>
+     <p> Lorem (para que aparezca texto random)</p>
+     <h3>Harry Potter y la piedra filosofal</h3>
+      <p>Lorem ndksnks </p>                                SIEMPRE IR GUARDANDO
+    </main>
+   <footer>
+       Curso HTML 2020-21
+   </footer>
+</body>
+
+MAS SECCIONES
+<!--
+section: agrupa contenido relacionado.
+article: contenido independiente.
+aside: contenido relacionado pero no forma parte del contenido principal. (ejemplo: contenido principal "curso de programacion". article: mira mis video en youtube de mis cursos.
+-->
+
+<body>
+  <hearder> 
+      <h1> Noticias nacionales</h1>
+   </header>
+<main>
+   <section>
+      <h2> Noticias del día</h2>
+     <article> 
+       <h3>Noticia 1 </h3>
+      <p>Lorem kkdkskskdkshk </p>
+ </article>
+     <article> 
+ <h3> Noticia 2 </h3>
+</article>
+<! -- AL SER INDEPENDIENTE EL ARTICLE PUEDE LLEVAR: Header,main, footer -->
+</section>
+
+<!-- los sections pueden tener mas sections-->
+</main>
+<footer> 26 de Octubre del 2021 </footer>
+</body>
+
+Ctl+S

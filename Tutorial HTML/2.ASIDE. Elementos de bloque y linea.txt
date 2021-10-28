@@ -1,0 +1,51 @@
+Section vs articles III
+(PARA CHEQUEAR HTML---> https://validator.w3.org/nu/ )
+
+<!-- los articles necesitan un titulo porque sino dan fallo-->
+
+<article>
+  <h2>Navegadores más utilizados en 2020</hs>
+<section> 
+   <h3> Chrome</h3>
+<p> Lorem </p>
+
+<section>
+   <h3>Firefox</h3>
+ </section>
+ </aticle>
+
+ETIQUETA ASIDE
+
+<body>
+     <hearder>
+         <h1> Cursos de desaroollo web gratuitos</h1>
+          <aside> Visita mi canal de Youtube</aside>
+
+  </header>
+<main> ASIDE puede ir dentro o fuera del main 
+</main>
+</body>
+
+
+Diferencias de elementos de bloque y de linea
+
+<p>;< h1> /son elementos de bloque.
+
+<span>/ elemento de linea
+
+Elementos de linea:
+em --> enfasis
+strong --> más enfasis
+small ---> menos enfasis
+br ---> forzar un salto de linea- ejm: poemas. NO SE CIERRA </>
+wbr ---> salto de linea si hiciera falta <p> http:kskskskskksksk<wbr>jjdjj NO SE CIERRA </>
+time --> se usa para representar un contenido con hora/fecha.
+i---> italic
+b ---> bold
+u---> underline
+sup ---> superindice (pone el numero chiquito arriba)
+sub--> super indice (pone el numero chiquito abajo)
+<p>4 elevado al cuadrado se representa así 4 <sup>2</sup></p> para poner el dos chiquito
+ 
+<time>24/10/21 10:35 </time>
+ <p> <em>El dinero</em> es lo más importantep pero <strong>la salud</strong> es más importante</p> (LO PONE cursiva para enfatizar importancia=)
